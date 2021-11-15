@@ -1,7 +1,6 @@
 - 👋 Hi, I’m zeph
 - 👀 I’m interested in somethings and someone
 - 🌱 I’m currently learning everything i possibly can xD.
-- 💞️ I’m looking to collaborate on ...
 - 📫 mail - drivelecture@gmail.com
 
 <!---
