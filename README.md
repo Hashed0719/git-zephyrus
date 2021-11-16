@@ -1,5 +1,5 @@
 - 👋 Hi, I’m zeph
-- 👀 I’m interested in somethings and someone
+- 👀 I’m interested in some things and someone
 - 🌱 I’m currently learning everything i possibly can xD.
 - 📫 mail - drivelecture@gmail.com
 
