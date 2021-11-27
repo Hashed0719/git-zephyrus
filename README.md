@@ -1,5 +1,5 @@
 ## Hello I'm zeph
-<img align = "right">![visitors](https://visitor-badge.glitch.me/badge?page_id=zeph-yrus9.viewcounts&left_color=black&right_color=pink)</img>
+<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=zeph-yrus9.viewcounts&left_color=black&right_color=pink"/>
 
 <!---
 git-zephyrus/git-zephyrus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
