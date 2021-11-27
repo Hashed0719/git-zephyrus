@@ -1,7 +1,5 @@
-- 👋 Hi, I’m zeph
-- 👀 I’m interested in some things and someone
-- 🌱 I’m currently learning everything i possibly can xD.
-- 📫 mail - drivelecture@gmail.com
+## Hello I'm zeph
+<img>![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)</img>
 
 <!---
 git-zephyrus/git-zephyrus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
